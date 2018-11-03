@@ -23,5 +23,4 @@ module.exports = function(passport) {
     }))
     opts.issuer = 'accounts.examplesoft.com';
     opts.audience = 'yoursite.net';
-
 }
